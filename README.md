@@ -1,6 +1,6 @@
 # ⛏️ KuroOres
 
-
+![KuroOres Logo](KuroOres.png)
 
 KuroOres is a lightweight and stable **PocketMine-MP 5.x plugin** that enhances cobblestone generators by turning them into custom ore generators.
 
