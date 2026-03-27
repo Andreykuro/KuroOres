@@ -65,7 +65,7 @@ class Main extends PluginBase{
                                         $blockPos = new Vector3($bx, $by, $bz);
                                         $block = $world->getBlock($blockPos);
 
-                                        // ✅ FIXED HERE
+                                        
                                         if($block->getTypeId() !== VanillaBlocks::COBBLESTONE()->getTypeId()){
                                             continue;
                                         }
@@ -77,7 +77,7 @@ class Main extends PluginBase{
                                             continue;
                                         }
 
-                                        // ✅ ALSO FIXED HERE
+                                        
                                         if($block->getTypeId() === $newBlock->getTypeId()){
                                             continue;
                                         }
