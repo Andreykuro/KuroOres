@@ -1,0 +1,6 @@
+---
+name: KuroOres
+version: 0.0.1
+main: Andreykuro\KuroOres\Main
+api: 5.42.0
+...
